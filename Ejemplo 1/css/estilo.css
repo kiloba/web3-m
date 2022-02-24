@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    background-color: aqua;
+    font-family:Arial;
+    border: 3px red solid ;
+}
+
+.p1{
+    color: brown;
+    margin-right: 30%;
+    background-color: black;
+    font-family:'Lucida Sans';
+}
+.p2{
+    color:blueviolet;
+    padding-right: 30%;
+    background-color:aqua;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.t1{
+    color: black;
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.t2{
+    color: black;
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.t3{
+    color: black;
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.t4{
+    color: black;
+    background-color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
